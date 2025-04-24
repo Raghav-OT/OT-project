@@ -1,0 +1,27 @@
+How search engines work 
+
+Search engines are special sites on the web that are designed to help people find information stored on other sites. Here are a few examples- Google, Bing, DuckDuckGo, Yahoo, Ecosia, Ask, Yandex and Baidu. There are various ways in which search engines work, i.e. small differences from one search engine to another, but they all perform three basic tasks- 
+Firstly, they search the internet or select pieces of the internet for information through a process called crawling.
+Next, this information is analysed and stored in a large database through a process called indexing.
+Lastly, when a user searches for something, the search engine scans its index to find the most relevant results through a process called ranking.
+
+References:
+Franklin, C. (2023, March 8). How internet search engines Work. HowStuffWorks. https://computer.howstuffworks.com/internet/basics/search-engine.htm#:~:text=They%20search%20the%20Internet%20%2D%2D,words%20found%20in%20that%20index.
+
+Web Crawling
+
+The process by which a search engine finds and fetches new or updated web pages is called crawling. To do so, they use automated programs called crawlers. Now, let us start with the first step to the crawling process, ‘URL Discovery’. The most common way for a crawler to discover new webpages or URLs is for it to traverse from a known page to a new one. The next and final step to the crawling process is fetching, where the crawler downloads all the data under a discovered URL. On a side note, XML sitemaps can also improve a website's discoverability under a web crawler. 
+
+References:
+Google Search Central. (2024, February 22). How Google Search crawls pages [Video]. YouTube. https://www.youtube.com/watch?v=JuK7NnfyEuc
+In-Depth Guide to how Google Search works | Google Search Central | Documentation | Google for Developers. (n.d.). Google for Developers. https://developers.google.com/search/docs/fundamentals/how-search-works
+
+
+
+Indexing
+
+The next step after crawling is indexing. Indexing is the process by which the search engine understands what the web page is about. Indexing includes processing and analysing the textual content, key content tags, attributes, images and videos that the search engine will later use to rank the pages in its search results. Next, a search engine will parse through the html code and fix any errors (removal of unsupported tags). Next, the search engine checks if there are any duplicates of said webpage. Lastly, depending on the quality of the web page, it may or may not be chosen to be a part of the search engine’s database, this process is called index selection. 
+
+References:
+Google Search Central. (2024, February 22). How Google Search crawls pages [Video]. YouTube. https://www.youtube.com/watch?v=JuK7NnfyEuc
+Davies, D. (2023, January 17). Website indexing for search engines: How does it work? Search Engine Journal. https://www.searchenginejournal.com/search-engines/website-indexing/
