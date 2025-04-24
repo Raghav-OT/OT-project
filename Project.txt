@@ -1,0 +1,23 @@
+Evolution of ranking algorithms
+
+Early days: Yahoo! And AltaVista heavily relied on basic keyword matching techniques These methods ranked pages based on the frequency and location of keywords within the text.
+
+PageRank: PageRank assessed the importance of web pages based on the number and quality of links pointing to them. This method revolutionised web search by leveraging the web’s hyperlink structure to improve relevance.
+
+Modern Algorithms: ranking algorithms have become highly complex, incorporating machine learning, user behaviour analysis, and contextual signals. Google’s algorithms, for instance, now use hundreds of factors, including user engagement metrics and AI models like BERT, to deliver more accurate and personalized results.
+
+
+Types of algorithms:
+
+Content based ranking:
+Content-based ranking algorithms assess the relevance of items based on their content and how well they match the query or user preferences. These algorithms analyse features such as keywords, metadata, and other textual or multimedia content to determine relevance.
+
+Collaborative Filtering:
+Collaborative filtering algorithms rely on user interactions to make recommendations or rankings. They analyse patterns in user behaviour to predict what items a user might like based on similar users’ preferences.
+
+
+Hybrid models: 
+Hybrid models combine multiple ranking approaches to leverage each other’s strengths and mitigate weaknesses. These models often integrate content-based and collaborative filtering methods to provide more accurate and diverse recommendations.
+
+
+
